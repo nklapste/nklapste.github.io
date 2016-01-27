@@ -2524,6 +2524,7 @@
 			position: absolute;
 			width: 1px;
 			z-index: 0;
+            display: none;
 		}
 
 		#header:before {
